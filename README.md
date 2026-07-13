@@ -45,4 +45,4 @@ This project analyzes sales performance using interactive Power BI dashboards.
 
 ![Report 3](Sales%20Insights%20Dashboard.png)
 
-![Report 4](Advanced%20Visualization%20Dashboard.png)
+![Report 4](Advanced%20Visualisation%20Dashboard.png)
