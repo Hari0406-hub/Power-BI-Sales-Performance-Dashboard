@@ -39,10 +39,10 @@ This project analyzes sales performance using interactive Power BI dashboards.
 
 ## Dashboard Screenshots
 
-![Report 1](sales performance Dashboard.png)
+![Report 1](sales%20performance%20Dashboard.png)
 
-![Report 2](Customer Sales And Analysis Dashboard.png)
+![Report 2](Customer%20Sales%20And%20Analysis%20Dashboard.png)
 
-![Report 3](Sales Insights Dashboard.png)
+![Report 3](Sales%20Insights%20Dashboard.png)
 
-![Report 4](Advanced Visualization Dashboard.png)
+![Report 4](Advanced%20Visualization%20Dashboard.png)
